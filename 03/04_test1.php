@@ -24,4 +24,6 @@ echo "<br>";
 $team = array('Bill', 'Mary','Mike','Chris','Anne');
 echo $team [3];  // Эта команда отображает имя Chris
 
+echo "<br>";
+
 ?>
